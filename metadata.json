@@ -1,0 +1,6 @@
+{
+  "name": "DataGuard",
+  "description": "Pare-feu Android natif par VpnService et gestionnaire de cache hors-ligne pour préserver vos données mobiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

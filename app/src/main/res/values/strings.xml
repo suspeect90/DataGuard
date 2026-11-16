@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DataGuard</string>
+    <string name="vpn_service_name">DataGuard Pare-feu</string>
+    <string name="notification_channel_name">Protection Pare-feu</string>
+    <string name="notification_channel_desc">Indique lorsque le pare-feu local DataGuard filtre le trafic des applications ciblées.</string>
+    <string name="notification_title_active">Pare-feu DataGuard actif</string>
+    <string name="notification_stop_action">Désactiver</string>
+    <string name="tab_shield">Bouclier</string>
+    <string name="tab_apps">Applis</string>
+    <string name="tab_analytics">Analyse</string>
+    <string name="tab_cache">Cache</string>
+    <string name="cd_shield_status">Indicateur d\'état du bouclier DataGuard</string>
+    <string name="cd_network_status">État de la connexion réseau</string>
+    <string name="cd_delete_pack">Supprimer ce pack hors-ligne</string>
+    <string name="cd_clear_search">Effacer la recherche</string>
+    <string name="cd_app_icon">Icône de l\'application</string>
+</resources>
